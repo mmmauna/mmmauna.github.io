@@ -1,0 +1,49 @@
+body{
+    background-color: #16365d;
+    color: white;
+    font-family: Arial;
+}
+h1{
+    text-align: right;
+    color: white;
+}
+.bul1{
+    color: red;
+    font-style: italic;
+    font-weight: 500;
+}
+.bul3{
+    color: rgb(204, 78, 204);
+}
+.par1{
+    color: red;
+    text-decoration: underline;
+    font-weight: bold;
+
+}
+.head2{
+    color:red;
+    text-align: center;
+}
+.par2{
+    text-align: center;
+}
+.par3{
+    color: yellow;
+    text-decoration: underline;
+}
+.par4{
+    color:blue;
+}
+.par5{
+    color:#39FF14;
+}
+.head3{
+    text-align: left;
+    background-color: black;
+    border-top:1px solid rgb(240, 84, 84);
+    border-left:1px solid rgb(240, 84, 84);
+    width: 50%;
+    height: 60px;
+}
+

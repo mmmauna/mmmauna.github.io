@@ -1,0 +1,31 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fascinate&display=swap');
+
+
+body{
+    background-image:url("images/cat.jpg");
+    background-size: cover;
+}
+h1{
+    color:red;
+    background-color: black;
+    border-right:2px solid red;
+    border-left:2px solid red;
+    padding:50px;
+    text-align: center;
+    width:25%;
+    font-family: "Fascinate", system-ui;
+
+}
+p{
+    color:blue;
+    font-weight:bold;
+    font-style: italic;
+}
+.myspan{
+    color:purple;
+    text-decoration: underline;
+}
+.par1{
+    color:green;
+}
